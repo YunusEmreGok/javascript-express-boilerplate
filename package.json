@@ -1,0 +1,22 @@
+{
+  "name": "javascript-express-boilerplate",
+  "version": "1.0.0",
+  "description": "javascript express js mvc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YunusEmreGok/javascript-express-boilerplate.git"
+  },
+  "keywords": [
+    "expressjs"
+  ],
+  "author": "YunusEmreGok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YunusEmreGok/javascript-express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/YunusEmreGok/javascript-express-boilerplate#readme"
+}
